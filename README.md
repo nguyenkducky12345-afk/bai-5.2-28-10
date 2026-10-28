@@ -17,7 +17,7 @@
 <img width="509" height="523" alt="Screenshot 2026-10-28 160040" src="https://github.com/user-attachments/assets/cb1bb178-c9e1-43f3-8dcf-3e03a0c51402" />
 
 - Lỗi khi nhập sai định dạng form đăng nhập
-<img width="494" height="477" alt="Screenshot 2026-10-28 160049" src="https://github.com/user-attachments/assets/06dde1fe-b881-4b89-8be6-dc45acd93a62" />
+<img width="506" height="520" alt="Screenshot 2026-10-28 161815" src="https://github.com/user-attachments/assets/336c7415-da00-4e42-9280-917d557c3003" />
 
 - Xác nhận lưu thông tin thành công vào database
 <img width="505" height="525" alt="Screenshot 2026-10-28 161410" src="https://github.com/user-attachments/assets/579f0482-beff-4600-9169-32b737c5149b" />
